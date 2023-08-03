@@ -1,5 +1,5 @@
 def remove_html_markup(s):
-    tag = True
+    tag = False
     quote = False
     out = ""
 
